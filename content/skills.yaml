@@ -1,0 +1,46 @@
+title: Mes compétences
+items:
+  - name: Programmation
+    icon: fas:code-branch
+    content:
+      - C / C++
+      - Python
+      - NodeJS / PHP
+      - Go
+
+  - name: DevOps
+    icon: fab:docker
+    content:
+      - Drone CI / GitLab CI
+      - Docker / Kubernetes
+      - Ansible / Terraform
+      - Nexus / Jenkins
+
+  - name: Réseaux
+    icon: fas:network-wired
+    content:
+      - Switches / Access Points
+      - Firewalls
+      - Routage (OSPF, IS-IS, BGP, MPLS)
+      - SDN (OpenFlow, P4)
+
+  - name: Web
+    icon: fas:code
+    content:
+      - HTML / CSS / JS
+      - API REST / GraphQL
+      - Front-end (Vue)
+      - Back-end / MVC (Django, Laravel)
+
+  - name: Infrastructure
+    icon: fas:server
+    content:
+      - Linux (I use arch btw)
+      - KVM / OpenStack
+      - Ceph
+
+  - name: Certifications
+    icon: fas:certificate
+    content:
+      - Aerohive ACWA
+      - Stormshield CSNA

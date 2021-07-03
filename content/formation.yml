@@ -1,0 +1,48 @@
+title: 'Ma formation'
+items:
+  - title: 'Cursus Master en Ingérierie'
+    subtitle: 'Informatique, Systèmes et Réseaux'
+    date: '2018 - 2021'
+    location: 'Université de Strasbourg'
+    city: Strasbourg
+    icon: fas:graduation-cap
+
+  - title: 'Master Informatique SIRIS'
+    subtitle: "Sciences et Ingénierie des Réseaux, de l'Internet et des Systèmes"
+    date: '2019 - 2021'
+    location: 'Université de Strasbourg'
+    city: Strasbourg
+    icon: fas:graduation-cap
+
+  - title: 'Licence Informatique'
+    subtitle: ''
+    date: '2016 - 2019'
+    location: 'Université de Strasbourg'
+    city: Strasbourg
+    icon: fas:graduation-cap
+
+  - title: 'Cursus Master en Ingérierie'
+    subtitle: 'Informatique, Image, Réalité Virtuelle, Interactions et Jeux'
+    date: '2016 - 2018'
+    location: 'Université de Strasbourg'
+    city: Strasbourg
+    icon: fas:graduation-cap
+
+  - title: 'Certification Stormshield CSNA'
+    subtitle: 'Certified Stormshield Network Administrator'
+    date: '2017'
+    city: 'Illkirch-Graffenstaden'
+    icon: fas:certificate
+
+  - title: 'Baccalauréat Général Scientifique'
+    subtitle: 'Option Informatique et Sciences du Numérique - Mention Très Bien'
+    date: '2013-2016'
+    location: 'Lycée Général Leclerc'
+    city: Saverne
+    icon: fas:school
+
+  - title: 'Certification Aerohive ACWA'
+    subtitle: 'Aerohive Certified Wireless Administrator'
+    date: '2015'
+    city: 'Wolfisheim'
+    icon: fas:certificate
