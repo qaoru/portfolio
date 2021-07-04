@@ -62,7 +62,7 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
-      lang: 'en',
+      lang: 'fr',
     },
   },
 
@@ -173,6 +173,8 @@ export default {
         'faGraduationCap',
         'faServer',
         'faWifi',
+        'faSun',
+        'faMoon'
       ],
       regular: ['faCopyright'],
       brands: ['faDocker', 'faJenkins', 'faLinkedin', 'faGithub', 'faGitlab'],

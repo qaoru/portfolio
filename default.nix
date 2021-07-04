@@ -7,7 +7,6 @@ stdenv.mkDerivation rec {
   buildInputs = with pkgs; [
     nodejs
     yarn
-    git-lfs
     netlify-cli
   ];
 }
