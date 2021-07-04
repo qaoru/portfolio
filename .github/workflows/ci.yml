@@ -47,4 +47,12 @@ jobs:
 
       - name: Run linter 👀
         run: yarn lint
-
+        
+  deploy:
+    needs: ci
+    runs-on: ubuntu-latest
+    env:
+      HOOK_URL: ${{ secrets.NETLIFY_BUILD_HOOK }}
+    steps:
+      - name: trigger netlify deployment
+        run: curl -X POST -d {} "$HOOK_URL"
