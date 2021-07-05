@@ -1,0 +1,14 @@
+{
+  "intro": "About me",
+  "skills": "Skills",
+  "experiences": "Professional experiences",
+  "formation": "Formation",
+  "navigation": {
+    "home": "Home",
+    "projects": "Projects",
+    "formation": "Formation"
+  },
+  "buttons": {
+    "more": "See more"
+  }
+}

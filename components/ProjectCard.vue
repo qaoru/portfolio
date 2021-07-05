@@ -62,7 +62,7 @@
             focus:ring-4
           "
         >
-          See more
+          {{ $t('buttons.more') }}
         </nuxt-link>
       </div>
     </div>

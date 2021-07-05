@@ -43,12 +43,17 @@ import ThemeSwitcher from '~/components/ThemeSwitcher.vue'
 export default {
   components: { ThemeSwitcher },
   computed: {
-    links: () =>
-      [
-        { name: 'home', title: 'Accueil', href: '/' },
-        { name: 'projects', title: 'Projets', href: '/projects' },
+    links() {
+      return [
+        { name: 'home', title: this.$t('navigation.home'), href: '/' },
+        {
+          name: 'projects',
+          title: this.$t('navigation.projects'),
+          href: '/projects',
+        },
         { name: 'formations', title: 'Formation', href: '/formation' },
-      ].reverse(),
+      ].reverse()
+    },
   },
   methods: {},
 }

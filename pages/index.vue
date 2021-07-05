@@ -15,13 +15,13 @@
         />
       </div>
       <div>
-        <MainTitle>{{ intro.title }}</MainTitle>
+        <MainTitle>{{ $t('intro') }}</MainTitle>
         <p class="text-justify">{{ intro.description }}</p>
       </div>
     </section>
     <!-- Skills -->
     <section id="skills" class="text-center my-6">
-      <MainTitle>{{ skills.title }}</MainTitle>
+      <MainTitle>{{ $t('skills') }}</MainTitle>
       <div class="grid grid-cols-1 sm:grid-cols-3 gap-12 mt-3">
         <SkillCard
           v-for="(skill, idx) of skills.items"
@@ -32,7 +32,7 @@
     </section>
     <!-- Experiences  -->
     <section id="experiences" class="my-6">
-      <MainTitle>Expériences professionnelles</MainTitle>
+      <MainTitle>{{ $t('experiences') }}</MainTitle>
       <FormationCard
         v-for="(exp, idx) of experiences"
         :key="`form-${idx}`"
@@ -41,7 +41,7 @@
     </section>
     <!-- Formation -->
     <section id="formation" class="my-6">
-      <MainTitle>{{ formations.title }}</MainTitle>
+      <MainTitle>{{ $t('formation') }}</MainTitle>
       <FormationCard
         v-for="(form, idx) of formations.items"
         :key="`form-${idx}`"

@@ -1,0 +1,14 @@
+{
+  "intro": "En quelques mots ...",
+  "skills": "Compétences",
+  "experiences": "Expériences professionnelles",
+  "formation": "Formation",
+  "navigation": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "formation": "Formation"
+  },
+  "buttons": {
+    "more": "+ d'infos"
+  }
+}
