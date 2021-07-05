@@ -9,5 +9,10 @@ stdenv.mkDerivation rec {
     yarn
     netlify-cli
   ];
+
+  shellHook =
+  ''
+    source $HOME/.config/netlify/helper/path.bash.inc
+  '';
 }
 

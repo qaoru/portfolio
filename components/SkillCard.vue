@@ -1,6 +1,9 @@
 <template>
   <div class="rounded-sm">
-    <FontAwesomeIcon :icon="[faIcon.style, faIcon.icon]" class="m-3 text-6xl" />
+    <FontAwesomeIcon
+      :icon="[faIcon.style, faIcon.icon]"
+      class="m-3 text-6xl dark:text-yellow-600"
+    />
     <h4 class="text-2xl mb-2">{{ skill.name }}</h4>
     <ul>
       <li

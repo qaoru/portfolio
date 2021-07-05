@@ -10,3 +10,9 @@ icon: fas:code
 keywords:
   - python
   - django
+content: >-
+  La Société Mycologique de Strasbourg est une association pour laquelle j'ai eu
+  l'occasion de développer un outil web permettant la gestion et la consultation d'une base de données mycologiques,
+  ainsi qu'avec des fonctionnalités supplémentaires conformes aux besoins des membres de l'associations.
+actions:
+  - Développement web full-stack

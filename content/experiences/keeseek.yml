@@ -1,13 +1,23 @@
 order: 3
-title: 'Stage en développement web full-stack'
+title: "Stage en développement web full-stack"
 subtitle: >-
   Amélioration d'une plateforme web sous Laravel, intégration de modules avec Vue.
   Création d'une Progressive Web Application.
-date: 'Juin - Août 2019'
-company: 'CADENIA SAS / KeeSeeK'
+date: "Juin - Août 2019"
+company: "CADENIA SAS / KeeSeeK"
 city: Strasbourg
 icon: fas:code
 keywords:
   - laravel
   - vue
   - pwa
+content: >-
+  Dans le cadre de mon stage de fin de licence, j'ai intégré la start-up KeeSeeK
+  afin de contribuer à l'évolution de leurs services en ligne et à l'amélioration
+  de leur plate-forme web, en gérant par exemple l’intégration d’APIs d’organismes
+  partenaires au sein de la plateforme, ou en ajoutant des fonctionnalités interactives avec VueJS.
+actions:
+  - Développement web
+  - Création d'un module d'agenda sous Vue
+  - Intégration d'une API de paiement en ligne type marketplace (MangoPay)
+  - Création d'une Progressive Web Application comme preuve de concept

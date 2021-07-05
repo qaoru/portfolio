@@ -3,7 +3,7 @@
     <section id="experiences" class="my-6">
       <MainTitle>Expériences professionnelles</MainTitle>
       <FormationCard
-        v-for="(exp, idx) of experiences.items"
+        v-for="(exp, idx) of experiences"
         :key="`form-${idx}`"
         :element="exp"
       />
@@ -24,7 +24,9 @@ export default {
   components: { FormationCard },
   asyncData: async ({ $content }) => {
     const formations = await $content('formation').fetch()
-    const experiences = await $content('experiences').fetch()
+    const experiences = await $content('experiences')
+      .sortBy('order', 'desc')
+      .fetch()
 
     return { formations, experiences }
   },

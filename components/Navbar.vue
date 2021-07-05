@@ -10,7 +10,9 @@
         sm:px-6
       "
     >
-      <h1 class="text-lg order-first">paul-heng.fr</h1>
+      <h1 class="text-lg order-first">
+        <nuxt-link to="/"> paul-heng.fr </nuxt-link>
+      </h1>
       <div
         class="flex flex-row-reverse justify-center mx-2 order-last sm:order-2"
       >
