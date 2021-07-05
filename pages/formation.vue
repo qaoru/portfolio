@@ -1,7 +1,7 @@
 <template>
   <section>
     <section id="experiences" class="my-6">
-      <MainTitle :title="experiences.title" />
+      <MainTitle>Expériences professionnelles</MainTitle>
       <FormationCard
         v-for="(exp, idx) of experiences.items"
         :key="`form-${idx}`"
@@ -9,7 +9,7 @@
       />
     </section>
     <section id="formation" class="my-6">
-      <MainTitle :title="formations.title" />
+      <MainTitle>{{ formations.title }}</MainTitle>
       <FormationCard
         v-for="(form, idx) of formations.items"
         :key="`form-${idx}`"

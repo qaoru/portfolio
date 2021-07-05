@@ -63,6 +63,7 @@ export default {
   pwa: {
     manifest: {
       lang: 'fr',
+      name: 'paul-heng.fr',
     },
   },
 

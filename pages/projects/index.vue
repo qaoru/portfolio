@@ -1,6 +1,6 @@
 <template>
   <div>
-    <MainTitle title="Projets" />
+    <MainTitle>Projets</MainTitle>
     <p class="my-6">
       Retrouvez ici quelques projets sur lesquels j'ai eu l'occasion de
       travailler.

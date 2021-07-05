@@ -1,6 +1,6 @@
 <template>
   <article>
-    <MainTitle :title="page.title" />
+    <MainTitle>{{ page.title }}</MainTitle>
     <nuxt-content class="prose my-6 dark:prose-light" :document="page" />
   </article>
 </template>
