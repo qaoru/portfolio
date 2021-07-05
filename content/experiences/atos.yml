@@ -1,0 +1,31 @@
+order: 4
+title: 'Stage ingénieur DevOps'
+subtitle: >-
+  Gestion de l'exposition des APIs pour les projets transverses de la DGDDI.
+date: 'Février - Juillet 2021'
+company: 'Atos'
+city: Strasbourg
+icon: fab:jenkins
+keywords:
+  - devops
+  - jenkins
+  - api
+  - iam
+content: >-
+  Dans le cadre de mon stage de fin d'études, j'ai intégré l'équipe de tierce
+  maintenance applicative des portails de la Direction Générale des Douanes et des Droits Indirects (DGDDI).
+  En tant que membre de l'équipe DevOps, je prends part aux travaux d'industrialisation
+  et d'automatisation en lien avec les API de la DGDDI qui sont en lien avec
+  des projets transverses (en rapport avec d'autres institutions ou partenaires).
+  Je travaille également avec l'équipe pour la préparation d'une architecture
+  d'API Management (document d'architecture, preuves de concept, travaux et tests d'intégration).
+actions:
+  - Configuration d'un IAM/SSO (LemonLDAP::NG)
+  - Industrialisation des déploiements via scripts Shell
+  - Mise en place de processus d'intégration et de tests continus avec Jenkins et Docker (Swarm)
+  - Tests d'intégration API (Postman, Newman)
+  - Tests d'intégration E2E
+  - Behavior Driven Development
+  - Étude de la solution d'API Management Gravitee.IO pour une proposition d’architecture
+  - Participation aux réunions de suivi avec le client
+  - Automatisation des processus de build et de déploiement des livrables (Drupal, .NET)

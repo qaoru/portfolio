@@ -1,0 +1,13 @@
+order: 3
+title: 'Stage en développement web full-stack'
+subtitle: >-
+  Amélioration d'une plateforme web sous Laravel, intégration de modules avec Vue.
+  Création d'une Progressive Web Application.
+date: 'Juin - Août 2019'
+company: 'CADENIA SAS / KeeSeeK'
+city: Strasbourg
+icon: fas:code
+keywords:
+  - laravel
+  - vue
+  - pwa

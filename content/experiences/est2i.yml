@@ -1,0 +1,13 @@
+order: 1
+title: "Stage et emploi d'été en entreprise informatique"
+subtitle: >-
+  Refonte du site web de l'entreprise | Configuration d'équipements réseau |
+  Installation chez les clients | Présentation d'offres
+date: 'Mai - Août 2017'
+company: 'EST2i'
+city: 'Wolfisheim'
+icon: fas:wifi
+keywords:
+  - switch
+  - ap
+  - web

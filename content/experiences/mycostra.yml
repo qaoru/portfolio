@@ -1,0 +1,12 @@
+order: 2
+title: 'Stage en développement web full-stack'
+subtitle: >-
+  Création d'une application web et outils associés pour gérer une base de données mycologique.
+  Stack Django.
+date: 'Juillet - Août 2018'
+company: 'Société Mycologique de Strasbourg'
+city: Strasbourg
+icon: fas:code
+keywords:
+  - python
+  - django
