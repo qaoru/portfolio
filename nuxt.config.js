@@ -176,6 +176,7 @@ export default {
         'faWifi',
         'faSun',
         'faMoon',
+        'faEnvelope',
       ],
       regular: ['faCopyright'],
       brands: ['faDocker', 'faJenkins', 'faLinkedin', 'faGithub', 'faGitlab'],

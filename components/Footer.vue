@@ -14,6 +14,9 @@
         <FontAwesomeIcon :icon="['fab', link.icon]" />
       </a>
     </div>
+    <p class="text-xl mt-2">
+      <FontAwesomeIcon :icon="['fas', 'envelope']" /> paul [at] qaoru [dot] fr
+    </p>
   </footer>
 </template>
 

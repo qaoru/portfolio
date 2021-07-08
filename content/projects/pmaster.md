@@ -45,4 +45,4 @@ L'infrastucture a été déployée grâce à des outils d'Infrastructure-as-Code
 
 Le dépôt Git est disponible à [cette adresse](https://git.unistra.fr/project-master/pro-master/-/tree/dev/infra).
 
-Notre rapport de projet est disponible [ici](/docs/projet_master_2020.pdf). Je me suis occupé de la rédaction de la partie technique.
+Notre rapport de projet est disponible <a href="/docs/projet_master_2020.pdf" target="_blank">ici</a>. Je me suis occupé de la rédaction de la partie technique.
