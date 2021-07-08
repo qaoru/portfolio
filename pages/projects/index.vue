@@ -1,11 +1,11 @@
 <template>
-  <div>
+  <div class="mx-auto">
     <MainTitle>Projets</MainTitle>
     <p class="my-6">
       Retrouvez ici quelques projets sur lesquels j'ai eu l'occasion de
       travailler.
     </p>
-    <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 mt-3">
+    <div class="grid grid-cols-1 justify-center sm:grid-cols-3 gap-6 mt-3">
       <ProjectCard
         v-for="(item, idx) of projects"
         :key="`project-${idx}`"
@@ -14,6 +14,7 @@
         :title="item.title"
         :repository="item.repository"
         :path="item.path"
+        class="mx-auto"
       />
     </div>
   </div>

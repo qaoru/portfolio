@@ -34,7 +34,7 @@
             class="
               inline-block
               bg-gray-200
-              dark:bg-green-300
+              dark:bg-green-300 dark:hover:bg-green-400
               hover:bg-gray-300
               cursor-default
               rounded-full

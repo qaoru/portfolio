@@ -41,7 +41,8 @@
             font-semibold
             text-white
             bg-blue-500
-            dark:bg-blue-700
+            hover:bg-blue-400
+            dark:bg-blue-700 dark:hover:bg-blue-600
             focus:ring-4
           "
           >Git</a
@@ -58,7 +59,8 @@
             font-semibold
             text-white
             bg-blue-500
-            dark:bg-blue-700
+            hover:bg-blue-400
+            dark:bg-blue-700 dark:hover:bg-blue-600
             focus:ring-4
           "
         >
