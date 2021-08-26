@@ -14,10 +14,10 @@ keywords:
 content: >-
   Dans le cadre de mon stage de fin d'études, j'ai intégré l'équipe de tierce
   maintenance applicative des portails de la Direction Générale des Douanes et des Droits Indirects (DGDDI).
-  En tant que membre de l'équipe DevOps, je prends part aux travaux d'industrialisation
+  En tant que membre de l'équipe DevOps, j'ai pris part aux travaux d'industrialisation
   et d'automatisation en lien avec les API de la DGDDI qui sont en lien avec
   des projets transverses (en rapport avec d'autres institutions ou partenaires).
-  Je travaille également avec l'équipe pour la préparation d'une architecture
+  Je travaillais également avec l'équipe pour la préparation d'une architecture
   d'API Management (document d'architecture, preuves de concept, travaux et tests d'intégration).
 actions:
   - Configuration d'un IAM/SSO (LemonLDAP::NG)

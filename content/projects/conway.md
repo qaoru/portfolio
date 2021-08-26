@@ -22,6 +22,8 @@ Le Jeu de la Vie fonctionnant via une grille, nous avons découpé les lignes de
 
 ## Résultats
 
+[Lien vers le dépôt](https://gitlab.com/kessibi/conway-mpi)
+
 ### Temps d'exécution
 
 Les résultats que nous avons obtenus montrent une diminution intéressante du temps

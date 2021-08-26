@@ -64,7 +64,7 @@
             focus:ring-4
           "
         >
-          See more
+          En savoir plus
         </nuxt-link>
       </div>
     </div>
