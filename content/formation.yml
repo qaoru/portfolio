@@ -2,7 +2,7 @@ title: 'Ma formation'
 items:
   - title: 'Cursus Master en Ingérierie'
     subtitle: 'Informatique, Systèmes et Réseaux'
-    date: '2018 - 2021'
+    date: '2016 - 2021'
     location: 'Université de Strasbourg'
     city: Strasbourg
     icon: fas:graduation-cap
@@ -21,13 +21,6 @@ items:
     city: Strasbourg
     icon: fas:graduation-cap
 
-  - title: 'Cursus Master en Ingérierie'
-    subtitle: 'Informatique, Image, Réalité Virtuelle, Interactions et Jeux'
-    date: '2016 - 2018'
-    location: 'Université de Strasbourg'
-    city: Strasbourg
-    icon: fas:graduation-cap
-
   - title: 'Certification Stormshield CSNA'
     subtitle: 'Certified Stormshield Network Administrator'
     date: '2017'
@@ -35,8 +28,8 @@ items:
     icon: fas:certificate
 
   - title: 'Baccalauréat Général Scientifique'
-    subtitle: 'Option Informatique et Sciences du Numérique - Mention Très Bien'
-    date: '2013-2016'
+    subtitle: 'Option Informatique et Sciences du Numérique - Validé avec mention Très Bien'
+    date: '2013 - 2016'
     location: 'Lycée Général Leclerc'
     city: Saverne
     icon: fas:school
