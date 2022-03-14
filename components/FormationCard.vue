@@ -4,16 +4,7 @@
     :class="element.content || element.actions ? 'flex flex-col my-12' : 'my-3'"
   >
     <article
-      class="
-        flex
-        justify-center
-        content-center
-        items-center
-        flex-col
-        sm:flex-row
-        text-center
-        sm:text-left
-      "
+      class="flex justify-center content-center items-center flex-col sm:flex-row text-center sm:text-left"
     >
       <FontAwesomeIcon
         :icon="[faIcon.style, faIcon.icon]"
@@ -31,22 +22,7 @@
           <span
             v-for="keyword of element.keywords"
             :key="keyword"
-            class="
-              inline-block
-              bg-gray-200
-              dark:bg-green-300 dark:hover:bg-green-400
-              hover:bg-gray-300
-              cursor-default
-              rounded-full
-              px-3
-              py-1
-              text-sm
-              font-semibold
-              text-gray-700
-              lowercase
-              mr-2
-              mb-2
-            "
+            class="inline-block bg-gray-200 dark:bg-green-300 dark:hover:bg-green-400 hover:bg-gray-300 cursor-default rounded-full px-3 py-1 text-sm font-semibold text-gray-700 lowercase mr-2 mb-2"
             >#{{ keyword }}</span
           >
         </div>
@@ -55,13 +31,7 @@
     <!-- Details -->
     <div v-if="element.content" class="mt-6 w-11/12 text-justify mx-auto">
       <h4
-        class="
-          dark:text-blue-200
-          text-lg text-center
-          sm:text-left sm:-ml-6
-          mb-3
-          sm:mb-1
-        "
+        class="dark:text-blue-200 text-lg text-center sm:text-left sm:-ml-6 mb-3 sm:mb-1"
       >
         Contexte
       </h4>
@@ -69,13 +39,7 @@
     </div>
     <div v-if="element.actions" class="mt-6 w-11/12 text-justify mx-auto">
       <h4
-        class="
-          dark:text-blue-200
-          text-lg text-center
-          sm:text-left sm:-ml-6
-          mb-3
-          sm:mb-1
-        "
+        class="dark:text-blue-200 text-lg text-center sm:text-left sm:-ml-6 mb-3 sm:mb-1"
       >
         Actions
       </h4>
