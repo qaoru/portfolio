@@ -1,0 +1,19 @@
+order: 5
+title: 'Consultant Ingénieur DevOps'
+subtitle: >-
+  Actuellement en mission en tant qu'ingénieur de production pour Boursorama.
+date: 'Septembre 2021 - '
+company: 'Davidson Consulting'
+city: Strasbourg
+icon: fas:server
+keywords:
+  - devops
+  - puppet
+  - docker
+  - terraform
+  - production
+content: >-
+  Actuellement en mission en tant qu'ingénieur de production pour Boursorama.
+actions:
+  - Assurer le maintien en condition opérationnelle de l'infrastructure de Boursorama
+  - Participer à l'évolution de l'infrastructure à travers divers projets
