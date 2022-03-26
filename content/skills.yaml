@@ -13,7 +13,7 @@ items:
     content:
       - Drone CI / GitLab CI
       - Docker / Kubernetes
-      - Ansible / Terraform
+      - Ansible / Terraform / Puppet
       - Nexus / Jenkins
 
   - name: Réseaux
@@ -36,7 +36,7 @@ items:
     icon: fas:server
     content:
       - Linux (I use arch btw)
-      - KVM / OpenStack
+      - KVM / OpenStack / vSphere
       - Ceph
 
   - name: Certifications
