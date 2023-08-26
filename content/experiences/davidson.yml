@@ -1,0 +1,25 @@
+order: 5
+title: 'Consultant ingénieur DevOps / SysOps'
+subtitle: >-
+  En mission chez Boursorama | Equipe Architecture Front-Office
+date: 'Depuis Septembre 2021'
+company: 'Davidson Consulting'
+city: Nancy
+icon: fab:debian
+keywords:
+  - devops
+  - sysops
+  - linux
+  - docker
+  - puppet
+  - terraform
+  - mongodb
+content: >-
+  Depuis Septembre 2021, je suis en mission chez Boursorama au sein de l'équipe Architecture Front-Office.
+  Mon quotidien varie entre le maintien en condition opérationnelle de l'infrastructure de production concernant les parties WEB et PFM (Personal Finance Manager),
+  l'évolution de l'existant et la mise en place de nouveaux éléments.
+actions:
+  - Maintien en condition opérationnelle de l'infrastructure
+  - Assurer la supervision et le monitoring
+  - Evolution des outils internes à l'infrastructure
+  - Mise en place de nouveaux services

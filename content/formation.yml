@@ -1,14 +1,14 @@
 title: 'Ma formation'
 items:
   - title: 'Cursus Master en Ingérierie'
-    subtitle: 'Informatique, Systèmes et Réseaux'
+    subtitle: 'Informatique, Systèmes et Réseaux - Complément au Master SIRIS'
     date: '2016 - 2021'
     location: 'Université de Strasbourg'
     city: Strasbourg
     icon: fas:graduation-cap
 
   - title: 'Master Informatique SIRIS'
-    subtitle: "Sciences et Ingénierie des Réseaux, de l'Internet et des Systèmes"
+    subtitle: "Sciences et Ingénierie des Réseaux, de l'Internet et des Systèmes - Validé avec mention Très Bien"
     date: '2019 - 2021'
     location: 'Université de Strasbourg'
     city: Strasbourg
